@@ -1,9 +1,11 @@
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
 ## Oi! Eu sou o Andevaldo Vitório!
 
 <div align="center">
   <a href="https://github.com/andel-vitorio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andel-vitorio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andel-vitorio&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andel-vitorio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andel-vitorio&layout=compact&langs_count=7&theme=radical&count_private=true"/>
 </div>
   
   ##
