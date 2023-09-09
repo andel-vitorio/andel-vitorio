@@ -9,10 +9,9 @@
 
 
 ## My Stats
-<div style="display:flex;align-items:center;">
-  <a href="https://github.com/andel-vitorio">
-  <img height="150em" width="45%" src="https://github-readme-stats.vercel.app/api?username=andel-vitorio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andel-vitorio&layout=compact&langs_count=7&theme=radical&count_private=true"/>
+<div style="display:flex;align-items:center;justify-content:center;">
+  <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api?username=andel-vitorio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andel-vitorio&layout=compact&langs_count=7&theme=radical&count_private=true"/>
 </div>
 
   <!--
