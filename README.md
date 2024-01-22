@@ -9,9 +9,12 @@
 
 
 ## My Stats
-<div style="display:flex;align-items:center;justify-content:center;">
-  <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api?username=andel-vitorio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andel-vitorio&layout=compact&langs_count=7&theme=radical&count_private=true"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andel-vitorio&show_icons=true&count_private=true&hide_border=true&title_color=ADD8E6&icon_color=ADD8E6&text_color=c9d1d9&bg_color=0d1117" alt="Andevaldo Vitório github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andel-vitorio&layout=compact&hide_border=true&title_color=ADD8E6&text_color=ADD8E6&bg_color=0d1117" />
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ADD8E6?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/andevaldo)
+
 </div>
 
   <!--
