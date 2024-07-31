@@ -1,8 +1,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
+<!-- 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ADD8E6,100:89CFF0&fontAlign=50&fontSize=24&textBg=false&animation=twinkling&fontColor=ffffffab&reversal=false&fontAlignY=38"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&pause=10&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Andevaldo+Vitório;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&pause=10&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Andevaldo+Vitório;Be+Welcome!+:%29) -->
+
+![Descrição da imagem](assets/banner.png)
 
 ### I'm a Computer Engineering student and have a passion for coding.
 - 👩🏾‍💻  Software Developer at Akiry Media
