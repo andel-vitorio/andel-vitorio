@@ -1,7 +1,5 @@
 ![banner](assets/banner.png)
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=andel-vitorio&label=Profile%20views&color=0e75b6&style=flat" alt="andel-vitorio" /> </p> -->
-
 <p align="left">
   <a href="https://www.linkedin.com/in/andevaldo" style="margin-right:4px;">
     <img src="https://img.shields.io/badge/-LinkedIn-ADD8E6?style=social&logo=linkedin&logoColor=000" alt="LinkedIn">
@@ -11,23 +9,16 @@
   </a>
 </p>
 
-Software developer and researcher, currently pursuing a Master's degree in Electrical Engineering at UFAM (Federal University of Amazonas), with a Bachelor's degree in Computer Engineering from the same institution.
+Software developer and researcher, Master's student in Electrical Engineering (UFAM), with a background in Computer Engineering.
 
-- 🔍 **Researcher in Nonlinear Dynamical Systems** specializing in modeling, stability analysis, and phase diagrams.
-
-- 🎓 **Master's Researcher in Event-Based Control of DC Microgrids** focused on event-based control strategies.
-
-- 👩🏾‍💻 **Web Developer** with experience in creating interactive web applications using HTML, CSS, JavaScript, and modern frameworks like React and Angular.
-
-- 📱 **Native Android Developer** skilled in creating native Android apps with Java and Kotlin, including rich interface implementation and API integrations.
-
-- 🛠️ **Development Tools Specialist** knowledgeable in Git, Docker, and CI/CD.
-
-- 🌐 **Enthusiast of Emerging Technologies** with an interest in artificial intelligence and machine learning.
-
-- 📚 **Mentor and Educator** experienced in guiding students and peers in programming and development projects.
-
-- 🎹 **Pianist and Keyboardist** experienced in live performance and composition.
+- 🔍 **Researcher in Nonlinear Dynamical Systems**, focusing on modeling and stability.
+- 🎓 **Event-Based Control Techniques**.
+- 👨‍💻 **Web Developer** (React, Angular, JavaScript).
+- 📱 **Android Developer** (Java, Kotlin).
+- 🛠️ **Dev Tools**: Git, Docker, CI/CD.
+- 🌐 Interested in AI and machine learning.
+- 📚 Mentor in programming and development.
+- 🎹 Pianist and keyboardist.
 
 <div align="center">
   <h3>My Stats</h3>
@@ -36,11 +27,10 @@ Software developer and researcher, currently pursuing a Master's degree in Elect
 </div>
 
 <div align="center">
-  <h3>Github Streak</h3>
+  <h3>GitHub Streak</h3>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=andel-vitorio&theme=dark&hide_border=true&ring=B45237&fire=B45237&currStreakLabel=B45237&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
-
 
 ![Snake animation](https://github.com/andel-vitorio/andel-vitorio/blob/output/github-contribution-grid-snake.svg)
